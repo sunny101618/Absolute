@@ -1,4 +1,5 @@
-# ![design_docs](/Users/sunnychan/Documents/Absolute/design_docs.png)How to Protect the S3 bucket
+![design_docs](./design_docs.png)
+# How to Protect the S3 bucket
 1. Data at Rest
 
    Setting defautl server-side encryption behavior for the Amazon S3 bucket 
