@@ -1,3 +1,8 @@
+# (A) design documentation to describe the framework (required)
+All docs are put in the folder called `design-docs`
+
+
+# (B) Terraform Modules
 Terraform module for create a S3 bucket for storing static file and agent binaries with CloudFront Distribution
 
 The following resources will be created
